@@ -195,7 +195,7 @@ export default function Services(){
                       Sectorización de Redes de Abastecimiento.
                    </h4>
                    <p class="text-body-color">
-                    La sectorización se realizará con telecontrol y SCADA.<br ></br>Sectorización con equipos Data Logger Sofrel.
+                    La sectorización se realizará con telecontrol y SCADA.<br ></br>Sectorización de redes de abastecimiento con equipos Data Logger Sofrel.
                    </p>
                 </div>
              </div>
@@ -351,10 +351,10 @@ export default function Services(){
       </svg>
                    </div>
                    <h4 class="font-semibold text-xl text-dark mb-3">
-                      Digitalización Redes y Elementos de Acueducto-Alcantarillado.
+                      Digitalización Redes, Elementos Acueducto-Alcantarillado.
                    </h4>
                    <p class="text-body-color">
-                   Digitalización es fundamental para la optimización del sistema acueducto- alcantarillado, reduciendo costos, mejorando el rendimiento hidraúlico del ciclo del agua.<br></br>Formatos:Gis-Autocad-Dgn,o requerido.
+                   Digitalización es fundamental para optimización del sistema acueducto- alcantarillado, reduciendo costos, mejorando el rendimiento del ciclo del agua.<br></br>Formatos: Gis-Autocad-Dgn,o requerido.
                    </p>
                 </div>
              </div>
