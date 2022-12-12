@@ -1,0 +1,31 @@
+.container-cemred{
+    border-width: 1px;
+    border-style: solid ;
+    border-color:whitesmoke;
+    border-radius: 30px;
+    position: relative;
+    
+ 
+    
+}
+
+    
+
+
+.cemred{
+    width: 27px;
+    height:27px;
+
+    /* filter:brightness(1.1);
+    mix-blend-mode: multiply; */
+    
+}
+
+.text{
+    left: 33px;
+    top: 4px;
+    position: absolute;
+    align-self: center;
+    
+}
+ 
