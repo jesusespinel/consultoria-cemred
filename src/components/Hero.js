@@ -2,15 +2,15 @@ import React from 'react';
 import './Hero.css'
 import { navigation } from '../data';
 
-const Hero = () => {
+  const Hero = () => {
   return (
     
     <section
       id='home'
-      className='lg:h-[85vh] flex items-center bg-primary  lg:bg-cover lg:bg-center lg:bg-no-repeat py-32 lg:py-0 overflow-hidden'
+      className='container-image lg:h-[85vh] flex items-center lg:bg-cover lg:bg-center lg:bg-no-repeat py-32 lg:py-0 overflow-hidden '
     >
       
-      <div className='container-image '>
+      {/* <div className='lg:h-[85vh] flex items-center bg-primary  lg:bg-cover lg:bg-center lg:bg-no-repeat py-32 lg:py-0 overflow-hidden'> */}
       <div className='container mx-auto h-full'>
         <div className='flex items-center h-full pt-8'>
           <div className='flex-1 flex flex-col items-center lg:items-start'>
@@ -20,12 +20,12 @@ const Hero = () => {
              <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
             <div className='subtitulo-header'>
               
-           Damos respuesta a los retos tecnológicos del sector del agua, creando soluciones para el sector de los servicios públicos,que mejoran los procesos de diseño, administración, operación y mantenimiento de sistemas de acueducto y alcantarillado, a través de herramientas tecnológicas de alta calidad.
+           Damos respuesta a retos tecnológicos del sector agua, creando soluciones, que mejoran procesos: diseño, administración, mantenimiento de sistemas de acueducto-alcantarillado, a través del uso de herramientas tecnológicas.      
            
-           </div>
+              </div>
             </p>
             <a >
-            <button className='btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all'>
+            <button className='btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all' >
            
               Solicita una cotización
             </button>
@@ -33,10 +33,10 @@ const Hero = () => {
           </div>
          
           
-         
+          </div>
         </div>
-      </div>
-      </div>
+      {/* </div> */}
+      
     </section>
     
 
@@ -44,3 +44,6 @@ const Hero = () => {
 };
 
 export default Hero;
+  
+
+

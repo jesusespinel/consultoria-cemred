@@ -242,7 +242,7 @@ export default function Services(){
       </svg>
                    </div>
                    <h4 class="font-semibold text-xl text-dark mb-3">
-                      Topografía con RKT
+                      Topografía con RKT.
                    </h4>
                    <p class="text-body-color">
                       Con equipos RKT de alta tecnología describimos detalladamente la superficie de un terreno o área, los datos de las superficies se verán reflejados en planos.<br></br>Posicionamiento de puntos topográficos en tiempo real con equipos novedosos RKT.
@@ -289,7 +289,7 @@ export default function Services(){
                       </svg>
                    </div>
                    <h4 class="font-semibold text-xl text-dark mb-3">
-                      Diseños hidraúlicos
+                      Diseños hidraúlicos.
                    </h4>
                    <p class="text-body-color">
                  Diseño de red de acueducto.
