@@ -1,7 +1,7 @@
 import React  from 'react';
 import TestiSlider from './TestiSlider';
-import Carrousel from './Carrousel'
 
+import Carrousel from './Carrousel'
 const Testimonials = () => {
 
     return (
@@ -16,7 +16,7 @@ const Testimonials = () => {
             </p>
           </div>
           <TestiSlider />
-          <Carrousel/>
+         <Carrousel/>
         </div>
   
       </section>

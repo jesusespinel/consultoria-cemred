@@ -45,9 +45,9 @@ import TestiImage5 from './assets/img/testimonials/cemred5.jpeg';
 //import TestiImage7 from './assets/img/testimonials/cemred7.jpeg';
 //import TestiImage8 from './assets/img/testimonials/cemred12.jpeg';
 import TestiImage9 from './assets/img/testimonials/geofono.jpeg'; 
-import TestiImage10 from './assets/img/testimonials/geofonocemred.jpeg';
+import TestiImage10 from './assets/img/testimonials/geo.jpeg';
 import TestiImage11 from './assets/img/testimonials/cemred13.png';
-import TestiImage12 from './assets/img/testimonials/cemred20.jpeg';
+import TestiImage12 from './assets/img/testimonials/cem20.jpeg';
 // navigation
 export const navigation = [
   {
@@ -259,7 +259,7 @@ export const testimonials = [
   {
     authorImg: TestiImage1,
     authorText:
-      'Principio de funcionamiento de localización acústica de fugas: El Agua que  sale por la fuga  provoca vibraciones en el material de la tubería. Dichas Vibraciones se transfieren a la tubería y se registran como sonido estructural incluso en puntos de contacto más alejados,también se transfieren hasta la superficie a través del suelo en forma de ruido del suelo,de forma atenuada.',
+      'Principio de funcionamiento de localización acústica de fugas: El Agua que sale por la fuga  provoca vibraciones en el material de la tubería. Dichas Vibraciones se transfieren a la tubería y se registran como sonido estructural incluso en puntos de contacto más alejados,también se transfieren hasta la superficie a través del suelo en forma de ruido del suelo,de forma atenuada.',
       authorName: 'Giovanni Eduardo Blanco López.' ,
       authorPosition: 'Gerente General,',
   },

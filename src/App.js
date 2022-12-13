@@ -13,7 +13,7 @@ import Testimonials from './components/Testimonials';
 import BackTopBtn from './components/BackTopBtn';
 //import Pricing from './components/Pricing';
 import Normatividad from './components/Normatividad';
-//import Carrousel from './components/Carrousel';
+/* import Carrousel from './components/Carrousel'; */
 
 
 const App = () => {
@@ -25,8 +25,9 @@ const App = () => {
       <About />
       <Skills />  
       <Services />
-      {/*  <Carrousel/>  */}
-      <Testimonials />   
+     
+      <Testimonials /> 
+     {/*   <Carrousel/>  */}   
      {/*  <Pricing/> */}
       <Normatividad/>
       <Contact />

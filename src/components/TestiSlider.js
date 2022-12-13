@@ -36,9 +36,9 @@ const TestiSlider = () => {
             <SwiperSlide key={index}>
               <div    className='flex flex-col lg:flex-row gap-12 lg:gap-32'       
               >
-               <div  className='w h-48 lg:w-[328px] lg:h-[328px]'
+               <div  className='w-48 h-49 lg:w-[328px] lg:h-[328px]'
                               >
-                  <img  className='images' src={authorImg} alt='' />
+                  <img className='rounded-2xl'  src={authorImg} alt='' />
                 </div>
                  <div
                   className='flex flex-col max-w-3xl'
