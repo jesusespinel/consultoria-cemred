@@ -89,10 +89,6 @@ export const social = [
     href: '',
   },
   {
-    icon: <FiYoutube />,
-    href: '',
-  },
-  {
     icon: <FiLinkedin />,
     href: '',
   },
