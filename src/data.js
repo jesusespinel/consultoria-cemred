@@ -82,15 +82,15 @@ export const navigation = [
 export const social = [
   {
     icon: <FiFacebook />,
-    href: '',
+    href: 'https://web.facebook.com/profile.php?id=100088876473311',
   },
   {
     icon: <FiInstagram />,
-    href: '',
+    href: 'https://www.instagram.com/cemred_colombia/?hl=es',
   },
   {
     icon: <FiLinkedin />,
-    href: '',
+    href: 'https://www.linkedin.com/company/cemred/',
   },
   
 ];
