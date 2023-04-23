@@ -18,10 +18,10 @@ import {
 } from 'react-icons/fi';
 
 // companies icons
-import FreelancerBrandIcon from './assets/img/brands/freelancer.png';
-import UpworkBrandIcon from './assets/img/brands/upwork.png';
-import FiverBrandIcon from './assets/img/brands/fiverr.png';
-import BehanceBrandIcon from './assets/img/brands/behance.png';
+import FreelancerBrandIcon from './assets/img/brands/amserving.png';
+import UpworkBrandIcon from './assets/img/brands/sacyr.svg';
+import FiverBrandIcon from './assets/img/brands/zulia.png';
+import BehanceBrandIcon from './assets/img/brands/inycia.png';
 import DribbbleBrandIcon from './assets/img/brands/dribbble.png';
 
 
@@ -348,12 +348,6 @@ export const contact = [
     icon: <FiPhone/>,
     title: 'Teléfono.',
     subtitle: '(+57) 315 8239203.',
-  
-  },
-  {
-    icon: <FiUser/>,
-    title: 'Gerente General.',
-    subtitle: 'Giovanni Eduardo Blanco López.',
   
   },
 ];
