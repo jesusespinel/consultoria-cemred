@@ -22,7 +22,7 @@ import FreelancerBrandIcon from './assets/img/brands/amserving.png';
 import UpworkBrandIcon from './assets/img/brands/sacyr.svg';
 import FiverBrandIcon from './assets/img/brands/zulia.png';
 import BehanceBrandIcon from './assets/img/brands/inycia.png';
-import DribbbleBrandIcon from './assets/img/brands/dribbble.png';
+//import DribbbleBrandIcon from './assets/img/brands/dribbble.png';
 
 
 
