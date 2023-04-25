@@ -172,7 +172,7 @@ export default function Services(){
                       </svg>
                    </div>
                    <h4 class="font-semibold text-xl text-dark mb-3">
-                      Sectorización de Redes de Abastecimiento.
+                      Sectorización de redes de abastecimiento.
                    </h4>
                    <p class="text-body-color">
                    Sectorización con SCADA y Telecontrol.
@@ -333,7 +333,7 @@ export default function Services(){
       </svg>
                    </div>
                    <h4 class="font-semibold text-xl text-dark mb-3">
-                      Digitalización de Redes y Elementos en Acueducto y Alcantarillado.
+                      Digitalización de redes y elementos en acueducto y alcantarillado.
                    </h4>
                    <p class="text-body-color">
                      La digitalización es fundamental para optimizar el sistema acueducto- alcantarillado, reduciendo costos, mejorando el rendimiento del ciclo del agua.<br></br>Formatos: Gis-Autocad-Dgn,o requerido.
