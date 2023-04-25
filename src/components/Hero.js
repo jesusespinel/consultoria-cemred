@@ -18,15 +18,12 @@ import { navigation } from '../data';
               Consultoría Especializada<br />en Mejoramiento de Redes.
             </h1>
              <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
-            <div className='subtitulo-header'>
-              
-           Damos respuesta a retos tecnológicos del sector agua, creando soluciones, que mejoran procesos: diseño, administración, mantenimiento de sistemas de acueducto-alcantarillado, a través del uso de herramientas tecnológicas.      
-           
-              </div>
+            <div className='subtitulo-header'>         
+              Damos respuesta a retos tecnológicos del sector agua, creando soluciones, que mejoran procesos: diseño, administración, mantenimiento de sistemas de acueducto-alcantarillado, a través del uso de herramientas tecnológicas.        
+            </div>
             </p>
-            <a >
-            <button className='btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all' >
-           
+            <a href='#contact'>
+            <button className='btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all' >         
               Solicita una cotización
             </button>
             </a>

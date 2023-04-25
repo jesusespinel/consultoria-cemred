@@ -113,10 +113,10 @@ export const brands = [
     img: BehanceBrandIcon,
     href: '',
   },
-  {
+ /*  {
     img: DribbbleBrandIcon,
     href: '',
-  },
+  }, */
 ];
 
 // projects
