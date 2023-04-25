@@ -9,8 +9,6 @@ ReactDOM.render(
   <React.StrictMode>
     <ReactWhatsapp number="1-212-736-5000" message="Hello World!!!"/>
     <App />
- 
-  </React.StrictMode>,
-  
+  </React.StrictMode>, 
   document.getElementById('root')
 );

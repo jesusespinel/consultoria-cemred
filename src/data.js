@@ -37,17 +37,17 @@ import SkillImg7 from './assets/img/skills/diseño.png';
 import SkillImg8 from './assets/img/skills/figma.png';
 
 // testimonial images
-import TestiImage1 from './assets/img/testimonials/cemred1.jpeg';
+import TestiImage1 from './assets/img/testimonials/gio4.png';
 //import TestiImage2 from './assets/img/testimonials/cemred2.jpeg';
 //import TestiImage3 from './assets/img/testimonials/cemred3.jpeg';
 //import TestiImage4 from './assets/img/testimonials/cemred4.jpeg';
-import TestiImage5 from './assets/img/testimonials/cemred5.jpeg';
+import TestiImage5 from './assets/img/testimonials/nueva2.jpeg';
 //import TestiImage7 from './assets/img/testimonials/cemred7.jpeg';
 //import TestiImage8 from './assets/img/testimonials/cemred12.jpeg';
 import TestiImage9 from './assets/img/testimonials/geofono.jpeg'; 
 import TestiImage10 from './assets/img/testimonials/geo.jpeg';
 import TestiImage11 from './assets/img/testimonials/cemred13.png';
-import TestiImage12 from './assets/img/testimonials/cem20.jpeg';
+import TestiImage12 from './assets/img/testimonials/nueva4.jpeg';
 // navigation
 export const navigation = [
   {

@@ -1,7 +1,5 @@
 import React from 'react';
 import './Hero.css'
-import { navigation } from '../data';
-
   const Hero = () => {
   return (
     
