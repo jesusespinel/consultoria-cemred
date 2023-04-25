@@ -395,7 +395,7 @@ export default function Services(){
     </svg>
                    </div>
                    <h4 class="font-semibold text-xl text-dark mb-3">
-                     Estudios geotécnicos y tomografías electricas.
+                     Estudios geotécnicos y tomografías eléctricas.
                    </h4>
                    <p class="text-body-color">
                   Estudios de suelos, geológicos, geotécnicos, y de impacto ambiental.
