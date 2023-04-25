@@ -3,7 +3,7 @@ import React from 'react';
 // import img
 
 import Image1 from '../assets/img/bienestar.png';
-import TestiImage1 from '../assets/img/testimonials/cemred1.jpeg';
+import TestiImage1 from '../assets/img/testimonials/nueva2.jpeg';
 
  const About = () => {
 return(
