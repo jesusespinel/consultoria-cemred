@@ -67,12 +67,12 @@ export default function Services(){
                      </svg>
                       </div>
                      <h4 class="font-semibold text-xl text-dark mb-3">
-                         Búsqueda activa y preventiva de fugas.
+                         Búsqueda activa de fugas.
                      </h4>
                      <p class="text-body-color">
-                        Búsqueda de  fugas con equipos de detección electroacústica y correlación.                                
+                        Búsqueda de fugas con equipos modernos de detección electroacústica y correlación de alta calidad.                                
                      <br></br>
-                     EQUIPOS SEWERIN AQUAPHON AC 200.
+                     EQUIPOS SEWERIN SECORRPHONE AC 200.
                 </p>
                 </div>
              </div>
@@ -175,7 +175,7 @@ export default function Services(){
                       Sectorización de Redes de Abastecimiento.
                    </h4>
                    <p class="text-body-color">
-                    La sectorización se realizará con telecontrol y SCADA.<br ></br>Sectorización de redes de abastecimiento con equipos Data Logger Sofrel.
+                   Sectorización con SCADA y Telecontrol.
                    </p>
                 </div>
              </div>
@@ -222,10 +222,10 @@ export default function Services(){
       </svg>
                    </div>
                    <h4 class="font-semibold text-xl text-dark mb-3">
-                      Topografía con RKT.
+                      Topografía con RTK.
                    </h4>
                    <p class="text-body-color">
-                      Con equipos RKT de alta tecnología describimos detalladamente la superficie de un terreno o área, los datos de las superficies se verán reflejados en planos.<br></br>Posicionamiento de puntos topográficos en tiempo real con equipos novedosos RKT.
+                      Con equipos RTK de alta tecnología describimos detalladamente la superficie de un terreno o área, los datos de las superficies se verán reflejados en planos.<br></br>Posicionamiento de puntos topográficos en tiempo real con equipos novedosos y actualizados RTK.
                     
                    </p>
                 </div>
@@ -280,6 +280,8 @@ export default function Services(){
                  <br></br>
                  Diseño de sistemas de bombeo en redes de alcantarillado .
                  <br></br>
+                 Diseño estructural de obras.
+                 <br></br>
                  Proyecciones de líneas de acueducto y alcantarillado.
                    </p>
                 </div>
@@ -331,14 +333,152 @@ export default function Services(){
       </svg>
                    </div>
                    <h4 class="font-semibold text-xl text-dark mb-3">
-                      Digitalización Redes, Elementos Acueducto-Alcantarillado.
+                      Digitalización de Redes y Elementos en Acueducto y Alcantarillado.
                    </h4>
                    <p class="text-body-color">
-                   Digitalización es fundamental para optimización del sistema acueducto- alcantarillado, reduciendo costos, mejorando el rendimiento del ciclo del agua.<br></br>Formatos: Gis-Autocad-Dgn,o requerido.
+                     La digitalización es fundamental para optimizar el sistema acueducto- alcantarillado, reduciendo costos, mejorando el rendimiento del ciclo del agua.<br></br>Formatos: Gis-Autocad-Dgn,o requerido.
+                   </p>
+                </div>
+             </div>
+             <div class="w-full md:w-1/2 lg:w-1/3 px-4">
+                <div
+                   class="
+                   p-10
+                   md:px-7
+                   xl:px-10
+                   rounded-[20px]
+                   bg-white
+                   shadow-md
+                   hover:shadow-lg
+                   mb-8
+                   "
+                   >
+                   <div
+                      class="
+                      w-[70px]
+                      h-[70px]
+                      flex
+                      items-center
+                      justify-center
+                      bg-primary
+                      rounded-2xl
+                      mb-8
+                      "
+                      >
+                            <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="30"
+            height="30"
+            version="1"
+         viewBox="0 0 512 512"
+    >
+      <path
+        d="M278.5-.5h14c5.04 2.53 9.373 6.03 13 10.5 23.133 8.977 36.467 25.81 40 50.5 7.113 1.481 12.946 5.148 17.5 11a256.197 256.197 0 0012 25 64.218 64.218 0 010 16 256.141 256.141 0 00-12 25c-4.628 5.727-10.461 9.56-17.5 11.5-40 .667-80 .667-120 0-7.039-1.94-12.872-5.773-17.5-11.5a256.141 256.141 0 00-12-25 64.218 64.218 0 010-16 256.197 256.197 0 0012-25c4.554-5.852 10.387-9.519 17.5-11 3.504-24.666 16.837-41.499 40-50.5 3.263-4.948 7.597-8.448 13-10.5zm4 16c4.184-.796 7.35.537 9.5 4 .5 13.33.667 26.663.5 40h-14c-.167-13.337 0-26.67.5-40 .69-1.85 1.856-3.184 3.5-4zm-21 14c.994 9.82 1.327 19.82 1 30-7.008.166-14.008 0-21-.5 2.856-12.584 9.523-22.417 20-29.5zm47 0c11.26 6.647 18.26 16.48 21 29.5-6.992.5-13.992.666-21 .5v-30zm-75 45a8.435 8.435 0 014 .5c-8.915 21.758-5.581 41.425 10 59-7.995 1.217-15.661.217-23-3-3.866-3.252-6.033-7.419-6.5-12.5a41.056 41.056 0 01-6-9c-1.769-6.736-.102-12.402 5-17 1.279-10.104 6.779-16.104 16.5-18zm22 0c20.011-.333 40.011 0 60 1 11.045 18.664 8.712 35.497-7 50.5-15.333 10-30.667 10-46 0-15.773-15.328-18.106-32.494-7-51.5zm78 1c11.108-1.426 17.608 3.574 19.5 15a41.056 41.056 0 016 9c1.769 6.736.102 12.402-5 17-1.095 10.093-6.595 15.926-16.5 17.5a49.226 49.226 0 01-14 0c15.538-17.513 18.872-37.013 10-58.5z"
+        opacity="0.947" fill='white'
+      ></path>
+      <path
+        d="M349.5 511.5h-9a426.785 426.785 0 00-27-9.5c-2.439-.774-4.273-2.274-5.5-4.5a9517.45 9517.45 0 01-.5-138h-44c.167 46.001 0 92.001-.5 138a17.842 17.842 0 01-5.5 4.5 426.785 426.785 0 00-27 9.5h-9c-4.85-4.297-5.183-8.964-1-14a213.584 213.584 0 0127-9v-129c-8.673.166-17.34 0-26-.5l-3.5-3.5a7136.932 7136.932 0 010-169c2.317-10.983 8.817-18.149 19.5-21.5 32-.667 64-.667 96 0 9.241 2.907 15.574 8.907 19 18 35.088-4.079 58.755-22.746 71-56a113.626 113.626 0 004.5-28.5c4.954-5.324 9.954-5.324 15 0 .638 37.898-14.862 67.065-46.5 87.5-13.304 7.824-27.638 12.324-43 13.5.167 51.668 0 103.334-.5 155a11.532 11.532 0 01-3.5 4.5c-8.66.5-17.327.666-26 .5v129a213.584 213.584 0 0127 9c4.262 5.067 3.929 9.733-1 14zm-104-332c1.988 19.639 2.655 39.639 2 60h-14c-.167-16.67 0-33.337.5-50 1.75-5.784 5.584-9.117 11.5-10zm18 0h44v15c-5.067.189-9.734 1.689-14 4.5a84.853 84.853 0 01-8 7.5 120.678 120.678 0 00-10-8.5c-3.687-2.285-7.687-3.452-12-3.5v-15zm60 0c6.859.329 11.359 3.662 13.5 10 .5 16.663.667 33.33.5 50h-14v-60zm-60 31c6.362 3.85 12.029 8.684 17 14.5 3.333 2 6.667 2 10 0a109.399 109.399 0 0116-14.5 3876.599 3876.599 0 011.5 88c3.454 16.121 13.121 26.455 29 31 .499 4.989.666 9.989.5 15h-104a112.97 112.97 0 01.5-15c15.879-4.545 25.546-14.879 29-31 .5-29.331.667-58.665.5-88zm-30 44h14c.167 14.004 0 28.004-.5 42-1.972 7.29-6.305 12.623-13 16-.5-19.33-.667-38.664-.5-58zm90 0h14c.167 19.336 0 38.67-.5 58-6.891-3.227-11.224-8.56-13-16a881.746 881.746 0 01-.5-42z"
+        opacity="0.945" fill='white'
+      ></path>
+      <path
+        d="M101.5 164.5c22.669-.167 45.336 0 68 .5l3.5 3.5c.667 32 .667 64 0 96a11.532 11.532 0 01-3.5 4.5c-22.667.667-45.333.667-68 0l-3.5-3.5a2352.382 2352.382 0 010-97 20.67 20.67 0 013.5-4zm12 15h44v15h-44v-15zm0 30h44v45h-44v-45z"
+        opacity="0.967" fill='white'
+      ></path>
+      <path
+        d="M131.5 224.5c8.161-1.329 11.995 2.005 11.5 10-2.435 4.724-6.269 6.224-11.5 4.5-5.275-4.878-5.275-9.711 0-14.5z"
+        opacity="0.878" fill='white'
+      ></path>
+      <path
+        d="M199.5 511.5h-8a20.673 20.673 0 01-3.5-4 113636.455 113636.455 0 00-29.5-178h-15c.167 59.001 0 118.001-.5 177a27.241 27.241 0 01-3.5 5h-8a19.552 19.552 0 00-3.5-4c-.5-59.332-.667-118.666-.5-178h-15a49504.315 49504.315 0 01-29.5 178 19.555 19.555 0 00-3.5 4h-8c-2.39-1.902-3.723-4.402-4-7.5 9.78-59.842 19.612-119.675 29.5-179.5l1-36c.833-1.5 2-2.667 3.5-3.5 22.667-.667 45.333-.667 68 0l3.5 3.5 1 36c9.88 59.659 19.713 119.326 29.5 179-.3 3.266-1.633 5.933-4 8zm-86-212h44v15h-44v-15z"
+        opacity="0.942" fill='white'
+      ></path>
+    </svg>
+                   </div>
+                   <h4 class="font-semibold text-xl text-dark mb-3">
+                     Estudios geotécnicos y tomografías electricas.
+                   </h4>
+                   <p class="text-body-color">
+                  Estudios de suelos, geológicos, geotécnicos, y de impacto ambiental.
+                   <br></br>
+                  Diseño de estructura de pavimentos rígido y flexible.
+                  <br></br>
+                  Estudios de vulnerabilidad y refracción sísmica.
+                  <br></br>
+                  Estudios de estabilidad de taludes.
+                  <br></br>
+                  Levantamiento topográfico.
+                  </p>
+                </div>
+             </div>
+             <div class="w-full md:w-1/2 lg:w-1/3 px-4">
+                <div
+                   class="
+                   p-10
+                   md:px-7
+                   xl:px-10
+                   rounded-[20px]
+                   bg-white
+                   shadow-md
+                   hover:shadow-lg
+                   mb-8
+                   "
+                   >
+                   <div
+                      class="
+                      w-[70px]
+                      h-[70px]
+                      flex
+                      items-center
+                      justify-center
+                      bg-primary
+                      rounded-2xl
+                      mb-8
+                      "
+                      >
+                      <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="30"
+            height="30"
+            fill='none'
+            ersion="1"
+            viewBox="0 0 512 512"
+         >
+            <path
+            d="M183.5-.5h144c28.465 6.964 46.632 24.63 54.5 53a4587.734 4587.734 0 011 190c-1.787 13.904-7.121 26.237-16 37l-43 43a4690.155 4690.155 0 000 137c.98 5.959 3.98 10.626 9 14 9.767 16.514 6.267 29.181-10.5 38h-134c-16.767-8.819-20.267-21.486-10.5-38 5.02-3.374 8.02-8.041 9-14l1-78c3.013-5.035 7.18-6.202 12.5-3.5a6.978 6.978 0 012.5 3.5 1599.45 1599.45 0 010 80c-.749 5-2.416 9.667-5 14l-9 11c-1.193 5.443.973 8.61 6.5 9.5 40 .667 80 .667 120 0 5.527-.89 7.693-4.057 6.5-9.5l-9-11a38.097 38.097 0 01-5-14 5253.873 5253.873 0 010-145 1527.19 1527.19 0 0146-47c5.835-6.669 9.835-14.335 12-23a4398.292 4398.292 0 001-186c-4.527-23.526-18.36-38.36-41.5-44.5a1336.679 1336.679 0 00-70-1.5c-23.356-.111-46.69.389-70 1.5-23.14 6.14-36.973 20.974-41.5 44.5l-1 48c-2.435 4.724-6.269 6.224-11.5 4.5a11.532 11.532 0 01-3.5-4.5 624.938 624.938 0 010-50c6.011-31.508 24.511-51.175 55.5-59zm55 393c11.338-.167 22.672 0 34 .5 6.667 4.333 6.667 8.667 0 13a289.106 289.106 0 01-34 0c-6.586-4.493-6.586-8.993 0-13.5zm0 60c11.338-.167 22.672 0 34 .5 6.667 4.333 6.667 8.667 0 13a289.106 289.106 0 01-34 0c-6.586-4.493-6.586-8.993 0-13.5z"
+             fill='white'
+            ></path>
+            <path
+            d="M186.5 29.5c46.001-.167 92.001 0 138 .5 15.714 4.38 25.214 14.547 28.5 30.5.667 60 .667 120 0 180-3.829 17.163-14.329 27.663-31.5 31.5-44 .667-88 .667-132 0-17.171-3.837-27.671-14.337-31.5-31.5-.667-60-.667-120 0-180 3.473-15.97 12.973-26.303 28.5-31zm9 15c40.001-.167 80.001 0 120 .5 11.314.74 18.48 6.573 21.5 17.5a7740.38 7740.38 0 010 176c-2.491 9.158-8.325 14.991-17.5 17.5-42.667.667-85.333.667-128 0-9.175-2.509-15.009-8.342-17.5-17.5a7740.38 7740.38 0 010-176c3.248-10.851 10.415-16.851 21.5-18zm8 30h104v92h-104v-92zm5 138c7.518.387 10.018 4.054 7.5 11-5.977 4.602-10.144 3.269-12.5-4 .56-3.212 2.227-5.545 5-7zm90 0c7.518.387 10.018 4.054 7.5 11-5.977 4.602-10.144 3.269-12.5-4 .56-3.212 2.227-5.545 5-7z"
+             fill='white'
+            ></path>
+            <path
+            d="M191.5 59.5c42.668-.167 85.335 0 128 .5l3.5 3.5c.988 38.751.654 77.418-1 116a6.978 6.978 0 01-3.5 2.5c-42.751.989-85.417.655-128-1a6.978 6.978 0 01-2.5-3.5c-.667-38-.667-76 0-114a20.682 20.682 0 013.5-4zm12 15v92h104v-92h-104z"
+            fill='white'
+            ></path>
+            <path
+            d="M133.5 127.5c4.294-.302 7.461 1.364 9.5 5l1 109c1.646 10.622 5.979 19.956 13 28a1527.19 1527.19 0 0146 47 420.29 420.29 0 010 41c-2.226 4.361-5.726 5.861-10.5 4.5-2.167-.833-3.667-2.333-4.5-4.5l-1-35a881.728 881.728 0 01-49-51c-5.527-8.915-8.861-18.582-10-29a3023.738 3023.738 0 010-110c1.107-2.613 2.94-4.28 5.5-5z"
+            fill='white'
+            ></path>
+            <path
+            d="M205.5 196.5c19.134-.367 28.3 8.966 27.5 28-5.96 16.108-17.127 21.275-33.5 15.5-11.421-7.934-14.588-18.434-9.5-31.5 3.644-6.165 8.811-10.165 15.5-12zm3 16c-2.773 1.455-4.44 3.788-5 7 2.356 7.269 6.523 8.602 12.5 4 2.518-6.946.018-10.613-7.5-11zM295.5 196.5c19.134-.367 28.3 8.966 27.5 28-5.96 16.108-17.127 21.275-33.5 15.5-11.421-7.934-14.588-18.434-9.5-31.5 3.644-6.165 8.811-10.165 15.5-12zm3 16c-2.773 1.455-4.44 3.788-5 7 2.356 7.269 6.523 8.602 12.5 4 2.518-6.946.018-10.613-7.5-11z"
+             fill='white'
+            ></path>
+            <path
+            d="M235.5 316.5c13.337-.167 26.671 0 40 .5 16.105 5.947 21.272 17.113 15.5 33.5-3.472 6.141-8.638 9.974-15.5 11.5a400.05 400.05 0 01-40 0c-13.28-4.387-19.113-13.553-17.5-27.5 2.692-9.191 8.525-15.191 17.5-18zm3 16c11.338-.167 22.672 0 34 .5 6.667 4.333 6.667 8.667 0 13a289.106 289.106 0 01-34 0c-6.586-4.493-6.586-8.993 0-13.5zM235.5 376.5c13.337-.167 26.671 0 40 .5 16.105 5.947 21.272 17.113 15.5 33.5-3.472 6.141-8.638 9.974-15.5 11.5a400.05 400.05 0 01-40 0c-13.28-4.387-19.113-13.553-17.5-27.5 2.692-9.191 8.525-15.191 17.5-18zm3 16c-6.586 4.507-6.586 9.007 0 13.5 11.333.667 22.667.667 34 0 6.667-4.333 6.667-8.667 0-13a577.896 577.896 0 00-34-.5zM235.5 436.5c13.337-.167 26.671 0 40 .5 16.105 5.947 21.272 17.113 15.5 33.5-3.472 6.141-8.638 9.974-15.5 11.5a400.05 400.05 0 01-40 0c-13.28-4.387-19.113-13.553-17.5-27.5 2.692-9.191 8.525-15.191 17.5-18zm3 16c-6.586 4.507-6.586 9.007 0 13.5 11.333.667 22.667.667 34 0 6.667-4.333 6.667-8.667 0-13a577.896 577.896 0 00-34-.5z"
+            fill='white'
+            ></path>
+            </svg>
+                   </div>
+                   <h4 class="font-semibold text-xl text-dark mb-3">
+                     Búsqueda de fugas interiores con cámara termográfica.
+                   </h4>
+                   <p class="text-body-color">
+                     Cámara termográfica FLIR C5 con tecnología de imágenes térmicas precisas para detectar cambios en la temperatura de las superficies.<br></br> Capacidad de medición de húmedad, lo que permite la detección de la presencia de humedad en áreas inspeccionadas.
                    </p>
                 </div>
              </div>
           </div>
+          
        </div>
     </section>
     
