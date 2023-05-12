@@ -4,7 +4,6 @@ import { useState } from 'react';
  import TestiImage from '../assets/img/testimonials/blanco.png';
 import TestiImage1 from '../assets/img/testimonials/cem.jpeg' 
 import TestiImage2 from '../assets/img/testimonials/cemred2.jpeg'
-import TestiImage3 from '../assets/img/testimonials/rtk5.jpeg'
 /* import TestiImage4 from '../assets/img/testimonials/cemred4.jpeg'
 import TestiImage5 from '../assets/img/testimonials/cemred5.jpeg' */
 
@@ -33,7 +32,7 @@ import TestImage29 from '../assets/img/testimonials/rtk.jpeg';
 import TestImage31 from '../assets/img/testimonials/rtk3.jpeg';
 
   function Slider2() {
-  const images =[TestiImage13,TestImage28,TestiImage1,TestiImage3,TestImage29,TestiImage18,TestiImage8,TestiImage9,TestiImage12,TestiImage14,TestiImage15,TestiImage16,TestiImage18,TestiImage19,TestiImage21,TestiImage22,TestiImage24,TestImage25,TestImage26,TestImage27,TestImage31]
+  const images =[TestiImage13,TestImage28,TestiImage1,TestImage29,TestiImage18,TestiImage8,TestiImage9,TestiImage12,TestiImage14,TestiImage15,TestiImage16,TestiImage18,TestiImage19,TestiImage21,TestiImage22,TestiImage24,TestImage25,TestImage26,TestImage27,TestImage31]
   const [activeSlide, setActiveSlide] = useState(1);
   const prevSliderHandler = (index) => {
     if (index === 0) {
